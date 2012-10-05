@@ -1,0 +1,2 @@
+<Configure id="wac" class="org.eclipse.jetty.webapp.WebAppContext">
+</Configure>
