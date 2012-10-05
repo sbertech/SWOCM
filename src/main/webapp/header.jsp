@@ -8,7 +8,7 @@
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container-fluid">
-            <a class="brand" href="#">Рабочее место сотрудника</a>
+            <a class="brand" href="./index.jsp">Рабочее место сотрудника</a>
             <div class="nav-collapse collapse">
                 <ul class="nav">
                     <li><a href="#">Клиенты</a></li>

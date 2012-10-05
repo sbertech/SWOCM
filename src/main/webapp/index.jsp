@@ -58,8 +58,7 @@
                 </div>
                 <div class="controls controls-row">
                     <label class="span3" for="name">Наименование</label>
-                    <input class="span7 pull-right" type="text" id="name" placeholder="Наименование компании..."
-                           value="РО">
+                    <input class="span7 pull-right" type="text" id="name" placeholder="Наименование компании..." value="РО">
                 </div>
                 <div class="controls controls-row">
                     <button class="btn pull-right"><i class="icon-search"></i>&nbsp;Найти</button>
@@ -68,63 +67,48 @@
             <table class="table table-hover nomargin">
                 <tr>
                     <td>
-                        <i class="icon-home"></i>&nbsp;<a href="./clientProfile.jsp">ООО &laquo;<b>Ро</b>га и
-                        копыта&raquo;</a><br>
-                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-success">Средний бизнес</span>
-                        </small>
+                        <i class="icon-home"></i>&nbsp;<a href="./clientProfile.jsp">ООО &laquo;<span class="finded-piece">Ро</span>га и копыта&raquo;</a><br>
+                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-success">Средний бизнес</span></small>
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <i class="icon-home"></i>&nbsp;<a href="./clientProfile.jsp">ОАО &laquo;Нефте-юганская
-                        столовая для су<b>ро</b>вых мужчин&raquo;</a><br>
-                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span
-                                class="text-error">VIP</span></small>
+                        столовая для су<span class="finded-piece">ро</span>вых мужчин&raquo;</a><br>
+                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-error">VIP</span></small>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <i class="icon-user"></i>&nbsp;<a href="">ИП &laquo;Кузнецов Андрей Пет<b>ро</b>вич&raquo;
-                    </a><br>
-                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span
-                                class="text-success">Малый бизнес</span>
-                        </small>
+                        <i class="icon-user"></i>&nbsp;<a href="">ИП &laquo;Кузнецов Андрей Пет<span class="finded-piece">ро</span>вич&raquo;</a><br>
+                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-success">Малый бизнес</span></small>
                     </td>
-                </tr>
-                <tr>
-                    <td></td>
                 </tr>
             </table>
             <div class="row">
-                <a href="" class="pull-right">
+                <a href="" class="right-label pull-right">
                     <small>Все найденные...</small>
                 </a>
             </div>
         </div>
         <div id="favorites" class="tab-pane fade">
-            <table class="table table-hover">
+            <table class="table table-hover no-first-border">
                 <tr>
                     <td>
-                        <a href="./clientProfile.jsp"><i class="icon-home"></i>&nbsp;ООО &laquo;Рога и копыта&raquo;
-                        </a><br>
-                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-success">Средний бизнес</span>
-                        </small>
+                        <a href="./clientProfile.jsp"><i class="icon-home"></i>&nbsp;ООО &laquo;Рога и копыта&raquo;</a><br>
+                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-success">Средний бизнес</span></small>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="./clientProfile.jsp"><i class="icon-home"></i>&nbsp;ОАО &laquo;Нефте-юганская
-                            столовая для суровых мужчин&raquo;</a><br>
-                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-success">Средний бизнес</span>
-                        </small>
+                        <a href="./clientProfile.jsp"><i class="icon-home"></i>&nbsp;ОАО &laquo;Нефте-юганская столовая для суровых мужчин&raquo;</a><br>
+                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-success">Средний бизнес</span></small>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <a href=""><i class="icon-user"></i>&nbsp;ИП &laquo;Кузнецов Андрей Петрович&raquo;
-                        </a><br>
-                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-success">Средний бизнес</span>
-                        </small>
+                        <a href=""><i class="icon-user"></i>&nbsp;ИП &laquo;Кузнецов Андрей Петрович&raquo;</a><br>
+                        <small><span class="muted">Категория:&nbsp;</span>&nbsp;<span class="text-success">Средний бизнес</span></small>
                     </td>
                 </tr>
                 <tr>

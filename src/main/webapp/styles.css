@@ -5,13 +5,42 @@
 .efs-section {
   position: relative;
   margin: 15px 0;
-  padding: 39px 19px 14px;
+  padding: 39px 0 0 0;
   *padding-top: 19px;
   background-color: #fff;
   border: 1px solid #ddd;
   -webkit-border-radius: 4px;
      -moz-border-radius: 4px;
           border-radius: 4px;
+}
+
+.efs-section .tab-content form {
+    padding: 0 8px 0 8px;
+}
+
+.right-label {
+    padding-right: 20px;
+}
+
+#clientsTab.nav {
+    margin-bottom: 0px;
+}
+
+#clientsTabContent form {
+    margin-top: 10px;
+}
+
+.no-first-border tr:first-child td {
+    border-top: 0;
+}
+
+.table tr:last-child td {
+    border-bottom: 1px solid #DDD;
+}
+
+.finded-piece {
+    background: yellow;
+    font-weight: bold;
 }
 
 .efs-section-after {
@@ -366,4 +395,13 @@ body {
 
 .contact-w-client-table td:nth-child(2), .contact-w-client-table td:nth-child(3) {
     width: 45%;
+}
+
+.nav-tabs > li > a {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+ul.nav-tabs {
+    padding-left: 3px;
 }
