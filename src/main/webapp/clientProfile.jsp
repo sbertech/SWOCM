@@ -41,7 +41,7 @@
       <div class="row-fluid">
         <ul id="chapterTabs" class="nav nav-tabs">
             <li><a href="#main" tab="" data-toggle="">Основное</a></li>
-            <li><a href="#mainExt" tab="" data-toggle="">Справка по юр.Лицу</a></li>
+            <li><a href="#mainExt" tab="" data-toggle="">Справка по юр.лицу</a></li>
             <li><a href="#holding" tab="" data-toggle="">Справка по холдингу</a></li>
             <li><a href="#products" tab="" data-toggle="">Продукты</a></li>
             <li><a href="#contacts" tab="" data-toggle="">Контакты</a></li>
