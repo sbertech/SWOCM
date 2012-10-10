@@ -30,7 +30,7 @@
     <div class="container-fluid">
       <div class="row-fluid">
         <ul class="breadcrumb">
-            <li><a href="./index.html">Главная</a> <span class="divider">/</span></li>
+            <li><a href="./index.jsp">Главная</a> <span class="divider">/</span></li>
             <li><a href="">Клиенты</a> <span class="divider">/</span></li>
             <li class="active">Профиль клиента</li>
         </ul>
@@ -468,7 +468,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Сбербанк Технологии 2012</p>
+        <p>&copy; ЗАО "Сбербанк Технологии" 2012</p>
       </footer>
 
     </div>
